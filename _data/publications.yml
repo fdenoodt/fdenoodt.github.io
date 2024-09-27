@@ -39,6 +39,6 @@ main:
     authors:  Ward Gauderis, <strong>Fabian Denoodt</strong>, Bram Silue, Pierre Vanvolsem, Andries Rosseau 
     conference: Adaptive and Learning Agents Workshop, 2023.
     pdf: https://researchportal.vub.be/en/publications/efficient-bayesian-ultra-q-learning-for-multi-agent-games-2
-    code: https://github.com/fdenoodt/Smooth-InfoMax/tree/RadioIdentification
+    code: https://github.com/WardGauderis/Hyper-Q
     notes: Published as a master student
     image: ./assets/ultra-q.png
