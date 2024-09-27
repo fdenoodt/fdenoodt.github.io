@@ -7,8 +7,8 @@ I’m a PhD student in Artificial Intelligence. My research focuses on making de
 
 ## Education
 - Ph.D., Artificial Intelligence	(Ongoing)
-- M.S., Computer Science
-- B.S., Applied Information Technology
+- M.S., Computer Science	(Greatest Distinction)
+- B.S., Applied Information Technology	(Great Distinction)
 
 
 ### (Ongoing) Publications:
