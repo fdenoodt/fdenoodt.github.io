@@ -10,42 +10,21 @@ I’m a PhD student in Artificial Intelligence. My research focuses on making de
 - M.S., Computer Science	(Greatest Distinction)
 - B.S., Applied Information Technology	(Great Distinction)
 
-
-### (Ongoing) Publications:
-
-| Year | Title                                                        | Link                                                         | Venue                                                        |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2024 | Smooth InfoMax - Towards easier Post-Hoc interpretability    | [Link](https://www.arxiv.org/abs/2408.12936)                 | Submitted at *International Conference on Acoustics, Speech, and Signal Processing* |
-| 2024 | Label-Efficient Learning for Radio Frequency Fingerprint Identification | [Link](CPC4RFI.pdf)                                          | Submitted at *IEEE Wireless Communications and Networking Conference* |
-| 2023 | Efficient Bayesian Ultra-Q Learning for Multi-Agent Games    | [Link](https://researchportal.vub.be/en/publications/efficient-bayesian-ultra-q-learning-for-multi-agent-games) | Published at *Adaptive and Learning Agents Workshop*         |
-
-
-
 ## Projects
 
 ### Smooth InfoMax - Research paper on neural networks that are better interpretable by design.
-
 Deep Neural Networks are inherently difficult to interpret, mostly due to the large numbers of neurons to analyze and the disentangled nature of the concepts learned by these neurons. Instead, I propose to solve this through interpretability constraints to the model, allowing for easier post-hoc interpretability. 
-
+<img src="https://github.com/fdenoodt/Smooth-InfoMax/raw/main/assets/image-20230613111315897.png" alt="image-20230613111315897" style="zoom:50%;" />
 - This work has eventually led to the following research [paper](https://arxiv.org/abs/2408.12936).
 - Code: [GitHub](https://github.com/fdenoodt/Smooth-InfoMax)
 
-<img src="https://github.com/fdenoodt/Smooth-InfoMax/raw/main/assets/image-20230613111315897.png" alt="image-20230613111315897" style="zoom:50%;" />
-
-
-
 ### [2023] [Deep Learning Course] Image colorization - Paper implementation
-
 For a school group assignment, 2 fellow students and I implemented an image colorization model using PyTorch, based on the paper "Colorful Image Colorization" by Richard Zhang, Phillip Isola, and Alexei A. Efros. The paper proposes a method for converting grayscale images to color using an autoencoder-based Neural Network.
 
 The images below show some of our results; **row 1:** ground truth images, **row 2:** grayscale images serving as input, and **row 3:** model predictions. It seems to work quite well.
-
-Report: [PDF](https://github.com/WardGauderis/Image-Colourisation/blob/main/report.pdf)
-
-Code: [GitHub](https://github.com/WardGauderis/Image-Colourisation)
-
 ![image-20230119140203674](assets/image-20230119140203674.png)
-
+- Report: [PDF](https://github.com/WardGauderis/Image-Colourisation/blob/main/report.pdf)
+- Code: [GitHub](https://github.com/WardGauderis/Image-Colourisation)
 
 ### [2022] [Computational Creativity Course] - Pokémon Generator
 
