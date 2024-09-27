@@ -21,7 +21,7 @@ I’m a PhD student in Artificial Intelligence. My research focuses on making de
 
 
 
-<!-- {% include_relative _includes/publications.md %} -->
+{% include_relative _includes/publications.md %}
 
 
 ## Projects
@@ -31,7 +31,6 @@ I’m a PhD student in Artificial Intelligence. My research focuses on making de
 Deep Neural Networks are inherently difficult to interpret, mostly due to the large numbers of neurons to analyze and the disentangled nature of the concepts learned by these neurons. Instead, I propose to solve this through interpretability constraints to the model, allowing for easier post-hoc interpretability. 
 
 - This work has eventually led to the following research [paper](https://arxiv.org/abs/2408.12936).
-
 - Code: [GitHub](https://github.com/fdenoodt/Smooth-InfoMax)
 
 <img src="https://github.com/fdenoodt/Smooth-InfoMax/raw/main/assets/image-20230613111315897.png" alt="image-20230613111315897" style="zoom:50%;" />
