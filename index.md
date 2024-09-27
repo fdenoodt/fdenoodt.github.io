@@ -116,3 +116,5 @@ I completed a machine learning project where I used regression techniques to pre
 </p>
 [GitHub](https://github.com/fdenoodt/machine-learning-challenge/blob/master/PROJECT.ipynb)
 
+{% include_relative _includes/publications.md %}
+
