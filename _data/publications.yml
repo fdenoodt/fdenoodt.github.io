@@ -35,7 +35,7 @@ main:
     code: https://github.com/fdenoodt/Smooth-InfoMax/tree/RadioIdentification
     image: ./assets/cpc4rfi.png
 
-  - title: "Label-Efficient Learning for Radio Frequency Fingerprint Identification"
+  - title: "Efficient Bayesian Ultra-Q Learning for Multi-Agent Games"
     authors:  Ward Gauderis, <strong>Fabian Denoodt</strong>, Bram Silue, Pierre Vanvolsem, Andries Rosseau 
     conference: Adaptive and Learning Agents Workshop, 2023.
     pdf: https://researchportal.vub.be/en/publications/efficient-bayesian-ultra-q-learning-for-multi-agent-games-2
