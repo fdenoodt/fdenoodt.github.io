@@ -66,13 +66,10 @@ The Artificial Neural Network consists of a convolutional neural network develop
 <p align="center">
 	<img src="assets/image-20221226150245847.png" alt="image" style="zoom:30%;" />
 </p>
-<p align="center">
-	<img src="https://raw.githubusercontent.com/oBoii/alarm/master/readme/image-20200822155035922.png" alt="image" style="zoom:30%;" />
-</p>
 [GitHub](https://github.com/oBoii/alarm)
 
-### Two evolutionary methods for solving the TSP problem 
-The methods consist of a conventional selection-mutation-crossover approach and a more research-oriented method based on gradient-descent-based for discrete domains. The second is done by extending the Plackett-Luce model with a new probability representation, defined as a first-order Markov chain, as shown below:
+### Two genetic algorithms for solving the Traveling Salesmen Problem 
+The methods consist of **a conventional selection-mutation-crossover approach** and a more **research-oriented approach** based on gradient-descent-based for discrete domains. The second is done by extending the Plackett-Luce model with a new probability representation, defined as a first-order Markov chain, as shown below:
 <div style="text-align: center;">
 <img src="assets/image-20240910204235783.png" alt="equation" width="350"/>
 </div>
