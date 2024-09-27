@@ -11,19 +11,6 @@ I’m a Ph.D student in Artificial Intelligence. My research focuses on making d
 - B.S., Applied Information Technology *(Great Distinction)* |
 
 
-<details>
-## <summary>## Work Experience</summary>
-	Hello there!
-	I am fabian!
-</details>
-
-
-<details>
-<summary>Download LibriSpeech</summary>
-	Hello there!
-	I am fabian!
-</details>
-
 
 ## Work Experience
 
