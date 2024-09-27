@@ -2,7 +2,19 @@
 layout: homepage
 ---
 
-## About Me
+## About
+I’m a PhD student in Artificial Intelligence. My research focuses on making deep learning models more trustworthy and reliable. I want to ensure that the models I train solve the actual problem, not just find shortcuts in the data. To achieve this, I explore different approaches, such as designing neural networks that are easier to interpret, measuring how certain models are in their predictions, and using special layers to guide the model's output.
+
+
+### (Ongoing) Publications:
+
+| Year | Title                                                        | Link                                                         | Venue                                                        |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2024 | Smooth InfoMax - Towards easier Post-Hoc interpretability    | [Link](https://www.arxiv.org/abs/2408.12936)                 | Submitted at *International Conference on Acoustics, Speech, and Signal Processing* |
+| 2024 | Label-Efficient Learning for Radio Frequency Fingerprint Identification | [Link](CPC4RFI.pdf)                                          | Submitted at *IEEE Wireless Communications and Networking Conference* |
+| 2023 | Efficient Bayesian Ultra-Q Learning for Multi-Agent Games    | [Link](https://researchportal.vub.be/en/publications/efficient-bayesian-ultra-q-learning-for-multi-agent-games) | Published at *Adaptive and Learning Agents Workshop*         |
+
+
 
 I am a Ph.D. student at ...
 
@@ -22,26 +34,6 @@ I am a Ph.D. student at ...
 
 
 # Portfolio
-Hi, I’m Fabian!
-
-I’m a PhD student in Artificial Intelligence with a background in Computer Science and Applied Informatics. My research focuses on making deep learning models more trustworthy and reliable. I want to ensure that the models I train solve the actual problem, not just find shortcuts in the data. To achieve this, I explore different approaches, such as designing neural networks that are easier to interpret, measuring how certain models are in their predictions, and using special layers to guide the model's output.
-
-Below, you will find some of the projects I have recently worked on. If you are interested in my profile, please visit my [LinkedIn](https://www.linkedin.com/in/fabian-denoodt/) page. 
-
-Thank you for visiting!
-
-
-
-### (Ongoing) Publications:
-
-| Year | Title                                                        | Link                                                         | Venue                                                        |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2024 | Smooth InfoMax - Towards easier Post-Hoc interpretability    | [Link](https://www.arxiv.org/abs/2408.12936)                 | Submitted at *International Conference on Acoustics, Speech, and Signal Processing* |
-| 2024 | Label-Efficient Learning for Radio Frequency Fingerprint Identification | [Link](CPC4RFI.pdf)                                          | Submitted at *IEEE Wireless Communications and Networking Conference* |
-| 2023 | Efficient Bayesian Ultra-Q Learning for Multi-Agent Games    | [Link](https://researchportal.vub.be/en/publications/efficient-bayesian-ultra-q-learning-for-multi-agent-games) | Published at *Adaptive and Learning Agents Workshop*         |
-
-
-
 ### [2024] [Two KUL AI courses in my spare time] 
 
 Because a PhD alone wasn’t challenging enough, I enrolled for two extra courses at KU Leuven: **Evolutionary Algorithms** and **Uncertainty in AI** 🙂
