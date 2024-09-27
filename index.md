@@ -21,8 +21,6 @@ I’m a PhD student in Artificial Intelligence. My research focuses on making de
 
 
 
-
-
 ## Projects
 
 ### Smooth InfoMax - Research paper on neural networks that are better interpretable by design.
@@ -57,6 +55,20 @@ For more details, please take a look at our [paper](./pokemon_character_design.p
 
 <img src="assets/image-20221226162855553.png" alt="image-20221226162855553" style="zoom:67%;" />
 
+### [2020] 4-month internship as a Data Scientist in the Netherlands
+
+I worked as an intern for the Data Analytics team of Achmea. Data scientists have previously developed an image recognition model. My job was to extend their current solution so that other employees could build their own machine-learning models. (Similar to AutoML). The developed product includes a web application, in which users can easily enter data and then train a model. In addition, several evaluation techniques have been implemented to assess the models. When a model does not perform satisfactorily, the application generates advice in one key sentence so that the end user can improve the model.
+
+Grade: 16/20
+
+Technologies:
+
+- Data Science: Python, TensorFlow, Keras, YOLOv3
+- Software development: Angular, .NET CORE, Azure Services (e.g. Azure Databricks, Azure Blob Storage)
+
+![image](assets/stack.png)
+
+
 ### Two evolutionary methods for solving the TSP problem 
 The methods consist of a conventional selection-mutation-crossover approach and a more research-oriented method based on gradient-descent-based for discrete domains. The second is done through extending the Plackett-Luce model with a new probability representation, defined as a first-order Markov chain, as shown below:
   <div style="text-align: center;">
@@ -83,11 +95,6 @@ Code: [GitHub](https://github.com/WardGauderis/SFML)
 
 A research project with a real business case for a real company (QelviQ), where the goal was to predict the optimal temperature for wine bottles based on their labels. The project was divided into three main modules: a computer vision module to extract text from the bottle labels, a data interpretation module that transformed the raw text into meaningful knowledge, and a temperature prediction module that used this information to predict the exact temperature. I worked on the data interpretation module, which involved extracting features such as the bottle name, year, wine name, and the regions of the included ingredients.
 
-QelviQ is available via the following [link](https://eu.qelviq.com/).
-
-<video src="assets/Video_Qelviq.mp4"></video>
-
-
 
 ### [2021] [Machine Learning] Kaggle competition - Appliances regression
 
@@ -96,32 +103,6 @@ I completed a machine learning project where I used regression techniques to pre
 Code: [GitHub](https://github.com/fdenoodt/machine-learning-challenge/blob/master/PROJECT.ipynb)
 
 <img src="assets/image-20240910000816399.png" alt="image-20240910000816399" style="zoom:67%;" />
-
-
-
-### [2020-2021] Computer science bridging program
-
-A one-year program that prepares students to start a master's program in computer science. The program consists of the core courses from the original three-year bachelor's program.
-
-
-
-Included math courses:
-
-- Calculus and linear algebra
-- Discrete mathematics
-- Probability and statistics
-- Scientific mathematics
-
-Included computer science courses:
-
-- Structure of computer programs
-- Interpretation of computer programs
-- Algorithms and data structures 1
-- Algorithms and data structures 2
-- Logic and formal systems
-- Automata and computability
-
-
 
 ### [2020] Image recognition alarm
 
@@ -136,73 +117,3 @@ Github: [oBoii/alarm (github.com)](https://github.com/oBoii/alarm)
 ![Image of the alarm](https://raw.githubusercontent.com/oBoii/alarm/master/readme/image-20200822155035922.png)
 
 
-
-## Bachelor projects as an Applied Informatics student:
-
-
-
-### [2020] 4-month internship as a Data Scientist in the Netherlands
-
-I worked as an intern for the Data Analytics team of Achmea. Data scientists have previously developed an image recognition model. My job was to extend their current solution so that other employees could build their own machine-learning models. (Similar to AutoML). The developed product includes a web application, in which users can easily enter data and then train a model. In addition, several evaluation techniques have been implemented to assess the models. When a model does not perform satisfactorily, the application generates advice in one key sentence so that the end user can improve the model.
-
-Grade: 16/20
-
-Technologies:
-
-- Data Science: Python, TensorFlow, Keras, YOLOv3
-- Software development: Angular, .NET CORE, Azure Services (e.g. Azure Databricks, Azure Blob Storage)
-
-
-
-![image](https://github.com/fdenoodt/bachelorproef/raw/master/readme-images/stack.png)
-
-
-
-
-
-### [2019] Student job - Angular Developer
-As front end developer for enterprise Organi, I helped the team by adding an extra module to their existing program, which their customers are currently using.
-
-<img src="https://i.gyazo.com/ab7222350747b64bc41392d4d72aac73.png" alt="Image of the alarm" style="zoom:50%;" />
-
-#### Technologies: 
-* JavaScript
-* Angular
-* RxJS
-
-#### Links:
-* Organi: https://www.organi.be/en
-* Result: https://imgur.com/a/Yoyt5c5
-
-
-
-### [2019] School Project - TaskZone
-
-A team project, with the objective of enhancing the communication/planning of teams.  
-The application contains a chat service, similar to LinkedIn where you can send messages to a person/group.
-The person receiving the message will then see 3 suggestions he can reply to that sentence.
-![TaskZone](https://i.imgur.com/K6PezTP.png)
-#### Technologies: 
-* C# (MVVM, Entity Framework)
-* Python
-* T-SQL
-
-
-
-### [2019] Hackathon - WhatTheHack
-
-2 day Hackathon, our objective was for awkward students to be able to make friends more easily.  
-This we attempted to achieve by building a website, similar to Omegle but where the person gets matched with other students from the same school.  
-If the conversation goes well they can add eachother as connection or if things go really well... even friends.
-
-#### Links:
-Github: https://github.com/oBoii/WhatTheHack-Hackathon
-
-### [2018] Student job - Open Summer of Code
-Project called "HealthStory", the objective was to make health related data more accessible.
-![HealthStory image](http://ofabian.be/cv/map/healthstory.png)
-#### Technologies: 
-* JavaScript 
-* React
-
-{% include_relative _includes/publications.md %}
