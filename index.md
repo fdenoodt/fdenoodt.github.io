@@ -7,14 +7,17 @@ I’m a PhD student in Artificial Intelligence. My research focuses on making de
 
 ## Education
 - Ph.D., Artificial Intelligence |	*(Ongoing)*
-- M.S., Computer Science |		*(Greatest Distinction)*
+- M.S., Computer Science |	                       *(Greatest Distinction)*
 - B.S., Applied Information Technology |	*(Great Distinction)*
 
 
 
 ## Work Experience
 
-### Com
+### AI Researcher @ Antwerp University (2023 - Ongoing)
+
+- Research in self-supervised learning, focusing on generative models and models designed for easier interpretability. Within one year, I submitted two main-author AI research papers to top-tier venues (one fundamental and one applied).
+- Teaching the lab sessions for Numerical Linear Algebra,  Advanced Programming in C++ (2nd-year Bachelor of Computer Science), Artificial Neural  Networks (Master's level), and Distributed Systems (3rd-year Bachelor of Computer Science).
 
 ### Data Engineer Internship @ Achmea (the Netherlands) (2020)
 - I created a machine learning pipeline that allows employees to quickly build their own machine-learning models  (Similar to AutoML). 
