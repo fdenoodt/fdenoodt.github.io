@@ -11,6 +11,27 @@ I’m a PhD student in Artificial Intelligence. My research focuses on making de
 - B.S., Applied Information Technology |(Great Distinction)
 
 
+
+## Work Experience
+
+### Data Engineer Internship @ Achmea (the Netherlands) (2020)
+- I created a machine learning pipeline that allows employees to quickly build their own machine-learning models  (Similar to AutoML). 
+- The developed product includes a web application where users can annotate image data and train new models. 
+- Several evaluation techniques have been implemented to assess the models. When a model does not perform satisfactorily, the web application automatically generates advice on how to improve model performance.
+
+<p align="center">
+	<img src="assets/stack.png" alt="image-20230613111315897" style="zoom:85%;" />
+</p>
+
+Grade: 16/20
+Technologies:
+
+- Machine Learning: Python, TensorFlow, Keras, YOLOv3
+- Software development: Angular, .NET CORE, Azure Services (e.g. Azure Databricks, Azure Blob Storage)
+
+
+
+
 ## Projects
 
 ### Smooth InfoMax - Research paper on neural networks that are better interpretable by design.
@@ -39,18 +60,6 @@ For more details, please take a look at our [paper](./pokemon_character_design.p
 <p align="center">
 	<img src="assets/image-20221226162855553.png" alt="image" style="zoom:30%;" />
 
-### [2020] 4-month internship as a Data Scientist in the Netherlands
-
-I worked as an intern for the Data Analytics team of Achmea. Data scientists have previously developed an image recognition model. My job was to extend their current solution so that other employees could build their own machine-learning models. (Similar to AutoML). The developed product includes a web application, in which users can easily enter data and then train a model. In addition, several evaluation techniques have been implemented to assess the models. When a model does not perform satisfactorily, the application generates advice in one key sentence so that the end user can improve the model.
-
-Grade: 16/20
-
-Technologies:
-
-- Data Science: Python, TensorFlow, Keras, YOLOv3
-- Software development: Angular, .NET CORE, Azure Services (e.g. Azure Databricks, Azure Blob Storage)
-
-![image](assets/stack.png)
 
 
 ### Two evolutionary methods for solving the TSP problem 
