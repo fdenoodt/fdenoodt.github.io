@@ -7,7 +7,7 @@ I’m a PhD student in Artificial Intelligence. My research focuses on making de
 
 ## Education
 - Ph.D., Artificial Intelligence |	*(Ongoing)*
-- M.S., Computer Science&nbsp;&nbsp; | *(Greatest Distinction)*
+- M.S., Computer Science&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | *(Greatest Distinction)*
 - B.S., Applied Information Technology |	*(Great Distinction)*
 
 
@@ -30,7 +30,7 @@ I’m a PhD student in Artificial Intelligence. My research focuses on making de
 	<img src="assets/image-20240928005412193.png" alt="image-20230613111315897" style="zoom:45%;" />
 </p>
 
-  
+
 
 ### Data Engineer @ Achmea (the Netherlands) (2020, Internship)
 - I created a machine learning pipeline that allows employees to quickly build their own machine-learning models  (Similar to AutoML). 
