@@ -6,34 +6,38 @@ layout: homepage
 I’m a PhD student in Artificial Intelligence. My research focuses on making deep learning models more trustworthy and reliable. I want to ensure that the models I train solve the actual problem, not just find shortcuts in the data. To achieve this, I explore different approaches, such as designing neural networks that are easier to interpret, measuring how certain models are in their predictions, and using special layers to guide the model's output.
 
 ## Education
-- Ph.D., Artificial Intelligence |	(Ongoing)
-- M.S., Computer Science |	(Greatest Distinction)
-- B.S., Applied Information Technology |	(Great Distinction)
+- Ph.D., Artificial Intelligence |(Ongoing)
+- M.S., Computer Science |(Greatest Distinction)
+- B.S., Applied Information Technology |(Great Distinction)
 
 
 ## Projects
 
 ### Smooth InfoMax - Research paper on neural networks that are better interpretable by design.
 Deep Neural Networks are inherently difficult to interpret, mostly due to the large numbers of neurons to analyze and the disentangled nature of the concepts learned by these neurons. Instead, I propose to solve this through interpretability constraints to the model, allowing for easier post-hoc interpretability. 
-<img src="https://github.com/fdenoodt/Smooth-InfoMax/raw/main/assets/image-20230613111315897.png" alt="image-20230613111315897" style="zoom:30%;" />
-- This work has eventually led to the following research [paper](https://arxiv.org/abs/2408.12936).
-- Code: [GitHub](https://github.com/fdenoodt/Smooth-InfoMax)
+<p align="center">
+	<img src="https://github.com/fdenoodt/Smooth-InfoMax/raw/main/assets/image-20230613111315897.png" alt="image-20230613111315897" style="zoom:30%;" />
+</p>
+- [Publication](https://arxiv.org/abs/2408.12936).
+- [GitHub](https://github.com/fdenoodt/Smooth-InfoMax)
 
-### [2023] [Deep Learning Course] Image colorization - Paper implementation
+### Image colorization - Paper implementation
 For a school group assignment, 2 fellow students and I implemented an image colorization model using PyTorch, based on the paper "Colorful Image Colorization" by Richard Zhang, Phillip Isola, and Alexei A. Efros. The paper proposes a method for converting grayscale images to color using an autoencoder-based Neural Network.
 
 The images below show some of our results; **row 1:** ground truth images, **row 2:** grayscale images serving as input, and **row 3:** model predictions. It seems to work quite well.
-![image-20230119140203674](assets/image-20230119140203674.png)
-- Report: [PDF](https://github.com/WardGauderis/Image-Colourisation/blob/main/report.pdf)
-- Code: [GitHub](https://github.com/WardGauderis/Image-Colourisation)
+<p align="center">
+	<img src="assets/image-20230119140203674.png" alt="image" style="zoom:30%;" />
+</p>
+- [Report](https://github.com/WardGauderis/Image-Colourisation/blob/main/report.pdf)
+- [GitHub](https://github.com/WardGauderis/Image-Colourisation)
 
-### [2022] [Computational Creativity Course] - Pokémon Generator
+### Pokémon Generator based on Transfer Learning
 
 For a computational creativity assignment, I generated fake Pokémon images using the open-source text-to-image model ruDALLE. I fine-tuned the model on images of a specific Pokémon type and also used the pretrained weights to generate outlines of Pokémon sketches. The generation of the names was also automated; the creative system took a few input words, made some permutations, and selected the best permutation, evaluated using a linear classifier trained on Pokémon names. The linear classifier then ranked the generated names and selected the most plausible option.
 
 For more details, please take a look at our [paper](./pokemon_character_design.pdf).
-
-<img src="assets/image-20221226162855553.png" alt="image-20221226162855553" style="zoom:67%;" />
+<p align="center">
+	<img src="assets/image-20221226162855553.png" alt="image" style="zoom:30%;" />
 
 ### [2020] 4-month internship as a Data Scientist in the Netherlands
 
@@ -55,7 +59,7 @@ The methods consist of a conventional selection-mutation-crossover approach and 
     <img src="assets/image-20240910204235783.png" alt="equation" width="350"/>
   </div>
   While the equations may look fancy, it doesn't really work that well in practice (that's the downside of building upon less-established methods I guess 😅).
-  
+
   - Report: [PDF](https://github.com/fdenoodt/evolution-assignment-2023-indiv/blob/main/text_indiv/r0698535_final.pdf)
   
   - Code: [GitHub](https://github.com/fdenoodt/evolution-assignment-2023-indiv)
@@ -95,5 +99,4 @@ Github: [oBoii/alarm (github.com)](https://github.com/oBoii/alarm)
 ![image-20221226150245847](assets/image-20221226150245847.png)
 
 ![Image of the alarm](https://raw.githubusercontent.com/oBoii/alarm/master/readme/image-20200822155035922.png)
-
 
