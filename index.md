@@ -3,12 +3,27 @@ layout: homepage
 ---
 
 ## About
-I’m a PhD student in Artificial Intelligence. My research focuses on making deep learning models more trustworthy and reliable. I want to ensure that the models I train solve the actual problem, not just find shortcuts in the data. To achieve this, I explore different approaches, such as designing neural networks that are easier to interpret, measuring how certain models are in their predictions, and using special layers to guide the model's output.
+I’m a Ph.D student in Artificial Intelligence. My research focuses on making deep learning models more trustworthy and reliable. I want to ensure that the models I train solve the actual problem, not just find shortcuts in the data. To achieve this, I explore different approaches, such as designing neural networks that are easier to interpret, measuring how certain models are in their predictions, and using special layers to guide the model's output.
 
 ## Education
 - Ph.D., Artificial Intelligence *(Ongoing)* |
 - M.S., Computer Science *(Greatest Distinction)* |
 - B.S., Applied Information Technology *(Great Distinction)* |
+
+
+<details>
+## <summary>## Work Experience</summary>
+	Hello there!
+	I am fabian!
+</details>
+
+
+<details>
+<summary>Download LibriSpeech</summary>
+	Hello there!
+	I am fabian!
+</details>
+
 
 ## Work Experience
 
