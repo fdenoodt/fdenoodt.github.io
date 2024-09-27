@@ -24,30 +24,9 @@ I’m a PhD student in Artificial Intelligence. My research focuses on making de
 <!-- {% include_relative _includes/publications.md %} -->
 
 
-# Portfolio
-### [2024] [Two KUL AI courses in my spare time] 
+## Projects
 
-Because a PhD alone wasn’t challenging enough, I enrolled for two extra courses at KU Leuven: **Evolutionary Algorithms** and **Uncertainty in AI** 🙂
-
-- In the **Evolutionary Algorithms** course, I developed two solutions for the Traveling Salesman Problem: a classic selection-mutation-crossover approach and a more experimental gradient-descent-based method for discrete domains. In the experimental approach, I extended the Plackett-Luce model with a new probability representation, defined as a first-order Markov chain, as shown below:
-  <div style="text-align: center;">
-    <img src="assets/image-20240910204235783.png" alt="equation" width="350"/>
-  </div>
-  However, while the method is mathematically sound, it doesn't really work that well in practice (that's the downside of working with less-established methods I guess 😅).
-  
-  - Report: [PDF](https://github.com/fdenoodt/evolution-assignment-2023-indiv/blob/main/text_indiv/r0698535_final.pdf)
-  
-  - Code: [GitHub](https://github.com/fdenoodt/evolution-assignment-2023-indiv)
-  
-- The **Uncertainty in AI** was a theoretical course with a pen-and-paper exam.
-
-
-
-## Master's projects as a CS student
-
-
-
-### [2023] [Master's Thesis] Smooth InfoMax
+### Smooth InfoMax - Research paper on neural networks that are better interpretable by design.
 
 Deep Neural Networks are inherently difficult to interpret, mostly due to the large numbers of neurons to analyze and the disentangled nature of the concepts learned by these neurons. Instead, I propose to solve this through interpretability constraints to the model, allowing for easier post-hoc interpretability. 
 
@@ -72,9 +51,6 @@ Code: [GitHub](https://github.com/WardGauderis/Image-Colourisation)
 ![image-20230119140203674](assets/image-20230119140203674.png)
 
 
-
-
-
 ### [2022] [Computational Creativity Course] - Pokémon Generator
 
 For a computational creativity assignment, I generated fake Pokémon images using the open-source text-to-image model ruDALLE. I fine-tuned the model on images of a specific Pokémon type and also used the pretrained weights to generate outlines of Pokémon sketches. The generation of the names was also automated; the creative system took a few input words, made some permutations, and selected the best permutation, evaluated using a linear classifier trained on Pokémon names. The linear classifier then ranked the generated names and selected the most plausible option.
@@ -83,9 +59,19 @@ For more details, please take a look at our [paper](./pokemon_character_design.p
 
 <img src="assets/image-20221226162855553.png" alt="image-20221226162855553" style="zoom:67%;" />
 
+### Two evolutionary methods for solving the TSP problem 
+The methods consist of a conventional selection-mutation-crossover approach and a more research-oriented method based on gradient-descent-based for discrete domains. The second is done through extending the Plackett-Luce model with a new probability representation, defined as a first-order Markov chain, as shown below:
+  <div style="text-align: center;">
+    <img src="assets/image-20240910204235783.png" alt="equation" width="350"/>
+  </div>
+  While the equations may look fancy, it doesn't really work that well in practice (that's the downside of building upon less-established methods I guess 😅).
+  
+  - Report: [PDF](https://github.com/fdenoodt/evolution-assignment-2023-indiv/blob/main/text_indiv/r0698535_final.pdf)
+  
+  - Code: [GitHub](https://github.com/fdenoodt/evolution-assignment-2023-indiv)
 
 
-### [2022] [Statistical Foundations of Machine Learning] - SVM research project
+### [Statistical Foundations of Machine Learning] - SVM research project
 
 For this school group project, we were tasked to come up with three research questions and investigate them. One of the questions we focused on involved comparing the capability of different kernels in **support vector machines (SVM)** on non-linearly separable data. Specifically, the radial basis function (RBF), the polynomial, and the linear kernel were compared on a synthetic two-dimensional dataset. Given the image below, it appears that the RBF does best.
 
@@ -221,69 +207,3 @@ Project called "HealthStory", the objective was to make health related data more
 * JavaScript 
 * React
 
-### [2018] School project - World of Pong
-Hybrid smartphone application, mark zones as 'Silent' / 'Loud'.
-While in the zone, the phone will go into the preferred mode.
-
-#### Technologies: 
-* NodeJS 
-* Socket.IO
-* JavaScript
-* Cordova
-
-#### Links:
-Video: https://www.youtube.com/watch?v=THXR1ZnCKiM
-
-### [2018] A Silent Place - School project
-Native android application, mark zones as 'Silent' / 'Loud'.  
-When positioned in the zone, the phone will switch into the preferred mode.
-![A silent place image](https://i.gyazo.com/99fd3405a5940747237c79991dd4c051.png)
-
-#### Technologies: 
-* Kotlin
-* Firebase
-
-#### Links:
-Google Play: https://play.google.com/store/apps/details?id=be.ofabian.asilentplace
-
-### [2018] UNO - School project
-The game can be played solo against against bots.  
-It can also be downloaded from my website to serve as an app for your phone.
-![UNO image](http://ofabian.be/cv/map/uno.png)
-
-#### Links:
-Demo: https://ofabian.be/UNOv6
-
-### [2017-2019] Management System - AMC Genk
-Started as highschool project but is now being used profesionally by AMC-Genk + supported.  
-Administration of:
-Users, Reservations, Pictures / albums, Newsfeed, Sponsors / Advertisements
-[AMC Genk image](http://ofabian.be/cv/map/amc.png)
-###### Technologies: 
-* JavaScript
-* PHP
-* Bootstrap
-
-### [2017] Website - School project
-Disability-friendly Website without use of frameworks.
-
-#### Links:
-* Website: http://ofabian.be/website_marc/
-
-### [2017] Calendar - Home project
-"I didn't feel like using Google's Calendar, so I built my own."
-
-Project made for fun to fill in some time during my 3 month summer vacation.
-
-### [2017] Static website - Traductions Marquant
-A static website that shows information about the company (Bootstrap).
-
-#### Links:
-* Website: http://luc-marquant.be
-
-### [2017] Internship - Horeca Technology Solutions
-IT-Support helpdesk for 2 weeks.  
-Company specialised in offering IT solutions in hotel and catering industry.
-
-#### Links:
-* Website: https://be.placedigger.com/horeca-technology-solutions-hts174251099.html
