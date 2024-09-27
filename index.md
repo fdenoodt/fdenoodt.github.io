@@ -7,7 +7,7 @@ I’m a PhD student in Artificial Intelligence. My research focuses on making de
 
 ## Education
 - Ph.D., Artificial Intelligence |	*(Ongoing)*
-- M.S., Computer Science |	                       *(Greatest Distinction)*
+- M.S., Computer Science |	&nbsp;&nbsp; *(Greatest Distinction)*
 - B.S., Applied Information Technology |	*(Great Distinction)*
 
 
@@ -17,7 +17,17 @@ I’m a PhD student in Artificial Intelligence. My research focuses on making de
 ### AI Researcher @ Antwerp University (2023 - Ongoing)
 
 - Research in self-supervised learning, focusing on generative models and models designed for easier interpretability. Within one year, I submitted two main-author AI research papers to top-tier venues (one fundamental and one applied).
-- Teaching the lab sessions for Numerical Linear Algebra,  Advanced Programming in C++ (2nd-year Bachelor of Computer Science), Artificial Neural  Networks (Master's level), and Distributed Systems (3rd-year Bachelor of Computer Science).
+- Teaching the lab sessions for Artificial Intelligence, Artificial Neural Networks, Numerical Linear Algebra,  Advanced Programming in C++, and Distributed Systems.
+
+###  Mathematics Tutor @ BijlesHuis (2022 - Ongoing)
+
+- Part-time tutoring of mathematics at different levels... from high school to university.
+
+
+
+### Computer Vision Research Engineer @ Puratos
+
+- Applied traditional image processing techniques to compute the porosity of bread slices at the  R&D department. Implemented image segmentation, perspective transformations, and corner  detection algorithms. Developed a successful library to detect bread porosity and compute  image features, achieving a precision of 3.5% in average cell area estimation. Completed  project from scratch in one month and documented technical details for future use.  Keywords: Python, OpenCV, Image processing, Image segmentation.
 
 ### Data Engineer Internship @ Achmea (the Netherlands) (2020)
 - I created a machine learning pipeline that allows employees to quickly build their own machine-learning models  (Similar to AutoML). 
