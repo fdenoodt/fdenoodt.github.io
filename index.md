@@ -21,7 +21,6 @@ I’m a PhD student in Artificial Intelligence. My research focuses on making de
 
 
 
-{% include_relative _includes/publications.md %}
 
 
 ## Projects
@@ -206,3 +205,4 @@ Project called "HealthStory", the objective was to make health related data more
 * JavaScript 
 * React
 
+{% include_relative _includes/publications.md %}
