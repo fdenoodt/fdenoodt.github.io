@@ -22,15 +22,23 @@ main:
 
   - title: "Smooth InfoMax - Towards easier Post-Hoc interpretability"
     authors: <strong>Fabian Denoodt</strong>, Bart de Boer, José Oramas
-    conference: Under review.
+    conference: 2024, Under review.
     pdf: https://www.arxiv.org/abs/2408.12936
     code: https://github.com/fdenoodt/Smooth-InfoMax
     notes: Based on master thesis
     image: https://github.com/fdenoodt/Smooth-InfoMax/raw/main/assets/image-20230613111315897.png
 
   - title: "Label-Efficient Learning for Radio Frequency Fingerprint Identification"
-    authors:  Thayheng Nhem*, <strong>Fabian Denoodt*</strong>, ... (* equal contribution)
-    conference: Under review.
+    authors:  Thayheng Nhem*, <strong>Fabian Denoodt*</strong>, José Oramas, ... (* equal contribution)
+    conference: 2024, Under review.
     pdf: https://fdenoodt.github.io/fdenoodt/CPC4RFI.pdf
     code: https://github.com/fdenoodt/Smooth-InfoMax/tree/RadioIdentification
     image: ./assets/cpc4rfi.png
+
+    - title: "Label-Efficient Learning for Radio Frequency Fingerprint Identification"
+    authors:  Ward Gauderis, <strong>Fabian Denoodt</strong>, Bram Silue, Pierre Vanvolsem, Andries Rosseau 
+    conference: Adaptive and Learning Agents Workshop, 2023.
+    pdf: https://researchportal.vub.be/en/publications/efficient-bayesian-ultra-q-learning-for-multi-agent-games-2
+    code: https://github.com/fdenoodt/Smooth-InfoMax/tree/RadioIdentification
+    notes: Published as a master student
+    image: ./assets/ultra-q.png
