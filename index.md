@@ -57,6 +57,7 @@ For a computational creativity assignment, I generated fake Pokémon images usin
 
 <p align="center">
 	<img src="assets/image-20221226162855553.png" alt="image" style="zoom:30%;" />
+</p>
 [Report](./pokemon_character_design.pdf)
 
 ### Image recognition alarm
