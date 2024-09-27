@@ -7,7 +7,7 @@ I’m a PhD student in Artificial Intelligence. My research focuses on making de
 
 ## Education
 - Ph.D., Artificial Intelligence |	*(Ongoing)*
-- M.S., Computer Science |	&nbsp;&nbsp; *(Greatest Distinction)*
+- M.S., Computer Science&nbsp;&nbsp; | *(Greatest Distinction)*
 - B.S., Applied Information Technology |	*(Great Distinction)*
 
 
@@ -23,13 +23,16 @@ I’m a PhD student in Artificial Intelligence. My research focuses on making de
 
 - Part-time tutoring of mathematics at different levels... from high school to university.
 
+### Computer Vision Research Engineer @ Puratos (2022, Internship)
 
+- Automatically measure bread porosity through conventional image segmentation.
+<p align="center">
+	<img src="assets/image-20240928005412193.png" alt="image-20230613111315897" style="zoom:45%;" />
+</p>
 
-### Computer Vision Research Engineer @ Puratos
+  
 
-- Applied traditional image processing techniques to compute the porosity of bread slices at the  R&D department. Implemented image segmentation, perspective transformations, and corner  detection algorithms. Developed a successful library to detect bread porosity and compute  image features, achieving a precision of 3.5% in average cell area estimation. Completed  project from scratch in one month and documented technical details for future use.  Keywords: Python, OpenCV, Image processing, Image segmentation.
-
-### Data Engineer Internship @ Achmea (the Netherlands) (2020)
+### Data Engineer @ Achmea (the Netherlands) (2020, Internship)
 - I created a machine learning pipeline that allows employees to quickly build their own machine-learning models  (Similar to AutoML). 
 - The developed product includes a web application where users can annotate image data and train new models. 
 - Several evaluation techniques have been implemented to assess the models. When a model does not perform satisfactorily, the web application automatically generates advice on how to improve model performance.
