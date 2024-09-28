@@ -10,17 +10,17 @@ I’m a Ph.D student in Artificial Intelligence. My research focuses on making d
 - M.S., Computer Science *(Greatest Distinction)* |
 - B.S., Applied Information Technology *(Great Distinction)* |
 
+&nbsp;
 
+&nbsp;
 
 ## Work Experience
 
 ### (1) AI Researcher @ Antwerp University (2023 - Ongoing)
-
 - Research in **self-supervised learning**, focusing on **generative models** and **models designed for easier interpretability**. Within one year, I submitted two main-author AI research papers to top-tier venues (one fundamental and one applied).
 - Teaching the lab sessions for **Artificial Intelligence**, **Artificial Neural Networks**, **Numerical Linear Algebra**,  **Advanced Programming in C++**, and **Distributed Systems**.
 
 ### (2) Computer Vision Research Engineer @ Puratos (2022, Internship)
-
 - Automatically measure bread porosity through conventional image segmentation.
 <p align="center">
 	<img src="assets/image-20240928005412193.png" alt="image-20230613111315897" style="zoom:45%;" />
@@ -43,7 +43,9 @@ Technologies:
 - Machine Learning: Python, **TensorFlow, Keras, YOLOv3**
 - Software development: Angular, .NET CORE, **Azure Services (e.g. Azure Databricks, Azure Blob Storage)**
 
+&nbsp;
 
+&nbsp;
 
 ## Highlighted Projects
 
