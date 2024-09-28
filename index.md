@@ -47,7 +47,7 @@ Technologies:
 
 ## Highlighted Projects
 
-### (1) Smooth InfoMax - Novel Method for Better-interpretable-by-design Neural Networks.
+### (1) Smooth InfoMax - Novel Method for Better-Interpretable-By-Design Neural Networks.
 Deep Neural Networks are inherently difficult to interpret, mostly due to the large numbers of neurons to analyze and the disentangled nature of the concepts learned by these neurons. Instead, I propose to solve this through interpretability constraints to the model, allowing for easier post-hoc interpretability. 
 
 <p align="center">
