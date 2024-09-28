@@ -12,8 +12,6 @@ I’m a Ph.D student in Artificial Intelligence. My research focuses on making d
 
 &nbsp;
 
-&nbsp;
-
 ## Work Experience
 
 ### (1) AI Researcher @ Antwerp University (2023 - Ongoing)
@@ -42,8 +40,6 @@ Technologies:
 
 - Machine Learning: Python, **TensorFlow, Keras, YOLOv3**
 - Software development: Angular, .NET CORE, **Azure Services (e.g. Azure Databricks, Azure Blob Storage)**
-
-&nbsp;
 
 &nbsp;
 
