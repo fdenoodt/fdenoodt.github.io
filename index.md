@@ -14,16 +14,12 @@ I’m a Ph.D student in Artificial Intelligence. My research focuses on making d
 
 ## Work Experience
 
-### AI Researcher @ Antwerp University (2023 - Ongoing)
+### (1) AI Researcher @ Antwerp University (2023 - Ongoing)
 
-- Research in self-supervised learning, focusing on generative models and models designed for easier interpretability. Within one year, I submitted two main-author AI research papers to top-tier venues (one fundamental and one applied).
-- Teaching the lab sessions for Artificial Intelligence, Artificial Neural Networks, Numerical Linear Algebra,  Advanced Programming in C++, and Distributed Systems.
+- Research in **self-supervised learning**, focusing on **generative models** and **models designed for easier interpretability**. Within one year, I submitted two main-author AI research papers to top-tier venues (one fundamental and one applied).
+- Teaching the lab sessions for **Artificial Intelligence**, **Artificial Neural Networks**, **Numerical Linear Algebra**,  **Advanced Programming in C++**, and **Distributed Systems**.
 
-###  Mathematics Tutor @ BijlesHuis (2022 - Ongoing)
-
-- Part-time tutoring of mathematics at different levels... from high school to university.
-
-### Computer Vision Research Engineer @ Puratos (2022, Internship)
+### (2) Computer Vision Research Engineer @ Puratos (2022, Internship)
 
 - Automatically measure bread porosity through conventional image segmentation.
 <p align="center">
@@ -32,7 +28,7 @@ I’m a Ph.D student in Artificial Intelligence. My research focuses on making d
 
 
 
-### Data Engineer @ Achmea (the Netherlands) (2020, Internship)
+### (3) Data Engineer @ Achmea (the Netherlands) (2020, Internship)
 - I created a machine learning pipeline that allows employees to quickly build their own machine-learning models  (Similar to AutoML). 
 - The developed product includes a web application where users can annotate image data and train new models. 
 - Several evaluation techniques have been implemented to assess the models. When a model does not perform satisfactorily, the web application automatically generates advice on how to improve model performance.
