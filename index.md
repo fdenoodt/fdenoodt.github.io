@@ -30,7 +30,7 @@ I’m a Ph.D student in Artificial Intelligence. My research focuses on making d
 
 ### (3) Data Engineer @ Achmea (the Netherlands) (2020, Internship)
 - I created a machine learning pipeline that allows employees to quickly build their own machine-learning models  (Similar to AutoML). 
-- The developed product includes a web application where users can annotate image data and train new models. 
+- The developed product includes a **web application where users can annotate image data and train new models**. 
 - Several evaluation techniques have been implemented to assess the models. When a model does not perform satisfactorily, the web application automatically generates advice on how to improve model performance.
 
 <p align="center">
@@ -40,8 +40,8 @@ I’m a Ph.D student in Artificial Intelligence. My research focuses on making d
 Grade: 16/20
 Technologies:
 
-- Machine Learning: Python, TensorFlow, Keras, YOLOv3
-- Software development: Angular, .NET CORE, Azure Services (e.g. Azure Databricks, Azure Blob Storage)
+- Machine Learning: Python, **TensorFlow, Keras, YOLOv3**
+- Software development: Angular, .NET CORE, **Azure Services (e.g. Azure Databricks, Azure Blob Storage)**
 
 
 
