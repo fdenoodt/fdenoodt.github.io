@@ -50,15 +50,14 @@ Technologies:
 
 
 
-## Projects
+## Highlighted Projects
 
 ### Smooth InfoMax - Research paper on neural networks that are better interpretable by design.
 Deep Neural Networks are inherently difficult to interpret, mostly due to the large numbers of neurons to analyze and the disentangled nature of the concepts learned by these neurons. Instead, I propose to solve this through interpretability constraints to the model, allowing for easier post-hoc interpretability. 
 <p align="center">
 	<img src="https://github.com/fdenoodt/Smooth-InfoMax/raw/main/assets/image-20230613111315897.png" alt="image-20230613111315897" style="zoom:30%;" />
 </p>
-- [Publication](https://arxiv.org/abs/2408.12936).
-- [GitHub](https://github.com/fdenoodt/Smooth-InfoMax)
+[Publication](https://arxiv.org/abs/2408.12936), [GitHub](https://github.com/fdenoodt/Smooth-InfoMax)
 
 ### Image colorization - Paper implementation
 For a school group assignment, 2 fellow students and I implemented an image colorization model using PyTorch, based on the paper "Colorful Image Colorization" by Richard Zhang, Phillip Isola, and Alexei A. Efros. The paper proposes a method for converting grayscale images to color using an autoencoder-based Neural Network.
@@ -97,22 +96,13 @@ While the equations may look fancy, it doesn't really work that well in practice
 [Report](https://github.com/fdenoodt/evolution-assignment-2023-indiv/blob/main/text_indiv/r0698535_final.pdf), [GitHub](https://github.com/fdenoodt/evolution-assignment-2023-indiv)
 
 
-### SVM Kernel Experiment
-
-For this school group project, we were tasked to come up with three research questions and investigate them. One of the questions we focused on involved comparing the capability of different kernels in **support vector machines (SVM)** on non-linearly separable data. Specifically, the radial basis function (RBF), the polynomial, and the linear kernel were compared on a synthetic two-dimensional dataset. Given the image below, it appears that the RBF does best.
-<p align="center">
-	<img src="assets/image-20221226154655480.png" alt="image" style="zoom:30%;" />
-</p>
-[GitHub](https://github.com/WardGauderis/SFML)
-
-
-
-### Wine temperature forecasting
-A research project with a real business case for a real company (QelviQ), where the goal was to predict the optimal temperature for wine bottles based on their labels. The project was divided into three main modules: a computer vision module to extract text from the bottle labels, a data interpretation module that transformed the raw text into meaningful knowledge, and a temperature prediction module that used this information to predict the exact temperature. I worked on the data interpretation module, which involved extracting features such as the bottle name, year, wine name, and the regions of the included ingredients.
 
 
 ### Kaggle competition - Appliances regression
-I completed a machine learning project where I used regression techniques to predict the energy consumption of appliances in a house. I experimented with different regression models such as **linear regression**, **decision trees**, **boosting regression**, and **support vector regression**. I also went through the full machine learning pipeline, including data visualization, data preprocessing, cross-validation for time series data, feature engineering, and model training with parameter tuning. 
+- **Problem**: the regression problem of forecasting the energy consumption of appliances in a house
+- My proposed solution consisted of different regression models, including **linear regression**, **decision trees**, **boosting regression**, and **support vector regression**. I also went through the full machine learning pipeline, including data visualization, data preprocessing, cross-validation for time series data, feature engineering, and model training with parameter tuning.
+- I ranked within the top 10% of the leaderboard. 
+
 <p align="center">
 	<img src="assets/image-20240910000816399.png" alt="image" style="zoom:30%;" />
 </p>
