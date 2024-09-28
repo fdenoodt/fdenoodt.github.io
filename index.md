@@ -49,9 +49,11 @@ Technologies:
 
 ### (1) Smooth InfoMax - Novel Method for Better-interpretable-by-design Neural Networks.
 Deep Neural Networks are inherently difficult to interpret, mostly due to the large numbers of neurons to analyze and the disentangled nature of the concepts learned by these neurons. Instead, I propose to solve this through interpretability constraints to the model, allowing for easier post-hoc interpretability. 
+
 <p align="center">
-	<img src="https://github.com/fdenoodt/Smooth-InfoMax/raw/main/assets/image-20230613111315897.png" alt="image-20230613111315897" style="zoom:30%;" />
+	<img src="assets/image-20240928144450980.png" alt="image-20230613111315897" style="zoom:30%;" />
 </p>
+
 [Publication](https://arxiv.org/abs/2408.12936), [GitHub](https://github.com/fdenoodt/Smooth-InfoMax)
 
 ### (2) Image colorization - Paper implementation
