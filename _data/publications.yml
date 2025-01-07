@@ -29,8 +29,8 @@ main:
     image: https://github.com/fdenoodt/Smooth-InfoMax/raw/main/assets/image-20230613111315897.png
 
   - title: "Label-Efficient Learning for Radio Frequency Fingerprint Identification"
-    authors:  Thayheng Nhem*, <strong>Fabian Denoodt*</strong>, José Oramas, ... (* equal contribution)
-    conference: 2024, Under review.
+    authors:  Thayheng Nhem*, <strong>Fabian Denoodt*</strong>, José Oramas (* equal contribution)
+    conference: 2025, IEEE Wireless Communications and Networking Conference.
     pdf: https://github.com/fdenoodt/Portfolio/blob/master/CPC4RFI.pdf
     code: https://github.com/fdenoodt/Smooth-InfoMax/tree/RadioIdentification
     image: ./assets/cpc4rfi.png
