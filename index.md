@@ -14,7 +14,7 @@ I’m a Ph.D student in Artificial Intelligence. My research focuses on making d
 
 ## Work Experience
 
-### (1) AI Researcher @ Antwerp University (2023 - Ongoing)
+### (1) AI Researcher @ the University of Antwerp (2023 - Ongoing)
 - Research in **self-supervised learning**, focusing on **generative models** and **models designed for easier interpretability**. Within one year, I submitted two main-author AI research papers to top-tier venues (one fundamental and one applied).
 - Teaching the lab sessions for **Artificial Intelligence**, **Artificial Neural Networks**, **Numerical Linear Algebra**,  **Advanced Programming in C++**, and **Distributed Systems**.
 
