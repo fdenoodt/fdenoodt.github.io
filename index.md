@@ -14,19 +14,27 @@ I’m a Ph.D student in Artificial Intelligence. My research focuses on making d
 
 ## Work Experience
 
-### (1) AI Researcher @ the University of Antwerp (2023 - Ongoing)
-- Research in **self-supervised learning**, focusing on **generative models** and **models designed for easier interpretability**. Within one year, I submitted two main-author AI research papers to top-tier venues (one fundamental and one applied).
-- Teaching the lab sessions for **Artificial Intelligence**, **Artificial Neural Networks**, **Numerical Linear Algebra**,  **Advanced Programming in C++**, and **Distributed Systems**.
+### (1) PhD Candidate @ Eindhoven University of Technology (2025 - Present)
 
-### (2) Computer Vision Research Engineer @ Puratos (2022, Internship)
-- Automatically measure bread porosity through conventional image segmentation.
+- I am currently pursuing a PhD at the Eindhoven University of Technology, where I research efficient uncertainty quantification in deep learning. My work is supervised by Joaquin Vanschoren and Sibylle Hess.
+
+### (2) Visiting Researcher @ the University of Amsterdam (2025)
+
+- In 2025, I was awarded a 5-month research grant to join AMLab at the University of Amsterdam. During this visit, supervised by Christian Andersson Naesseth, I investigated dynamic inference-time techniques for Bayesian Neural Networks, focusing on methods that provide any-time confidence intervals.
+
+### (3) Teaching Assistant @ the University of Antwerp (2023 - 2025)
+- From 2023 to 2025, I worked as a Teaching Assistant at the University of Antwerp. I taught lab sessions for five courses: **Artificial Intelligence**, **Artificial Neural Networks**, **Numerical Linear Algebra**, **Advanced Programming in C++**, and **Distributed Systems**.
+- In parallel, I conducted research on self-supervised representation learning, resulting in two first-author publications: one on applied self-supervised learning and another on interpretable-by-design networks using generative models. I also received a 5-month research grant for a research visit to AMLab at the University of Amsterdam.
+
+### (4) Computer Vision Research Engineer @ Puratos (2022, Internship)
+- During this internship, I developed a computer vision pipeline to automatically measure bread porosity using conventional image segmentation techniques. A key challenge of the project was detecting bread pores without access to any annotated data.
 <p align="center">
 	<img src="assets/image-20240928005412193.png" alt="image-20230613111315897" style="zoom:45%;" />
 </p>
 
 
 
-### (3) Data Engineer @ Achmea (the Netherlands) (2020, Internship)
+### (5) Data Engineer @ Achmea (the Netherlands) (2020, Internship)
 - I created a machine learning pipeline that allows employees to quickly build their own machine-learning models  (Similar to AutoML). 
 - The developed product includes a **web application where users can annotate image data and train new models**. 
 - Several evaluation techniques have been implemented to assess the models. When a model does not perform satisfactorily, the web application automatically generates advice on how to improve model performance.
