@@ -51,6 +51,8 @@ Technologies:
 
 &nbsp;
 
+{% include_relative _includes/publications.md %}
+
 ## Highlighted Projects
 
 ### (1) Smooth InfoMax - Novel Method for Better-Interpretable-By-Design Neural Networks.
@@ -113,6 +115,4 @@ Deep Neural Networks are inherently difficult to interpret, mostly due to the la
 	<img src="assets/image-20240910000816399.png" alt="image" style="zoom:30%;" />
 </p>
 [GitHub](https://github.com/fdenoodt/machine-learning-challenge/blob/master/PROJECT.ipynb)
-
-{% include_relative _includes/publications.md %}
 

@@ -1,4 +1,25 @@
 main:
+  - title: "On the Tightness and Computational Tractability of Higher-Dimensional Confidence Sequences"
+    authors: <strong>Fabian Denoodt</strong>, Sibylle Hess, Joaquin Vanschoren, Christian A. Naesseth
+    conference: Advances in Neural Information Processing Systems (NeurIPS), 2026.
+    pdf: ./NIPS26_On_the_tightness_and_computational_tractability_of_higher_dimensional_Confidence_Regions%20(1).pdf
+    page: https://fdenoodt.github.io/higher-dimensional-confidence-sequences/
+    page_label: Blog
+    notes: Spotlight
+    image: ./assets/tutorial_conf_seq.svg
+
+  - title: "When Has a Bayesian Neural Network Sampled Enough? Adaptive Inference Time with Statistical Guarantees"
+    authors: <strong>Fabian Denoodt</strong>, Sibylle Hess
+    conference: 'NeurIPS Workshop "E-values: From Statistics to ML", 2026.'
+    pdf: ./Neurips_Workshop_26___How_Many_Samples_does_a_BNN_need_.pdf
+    image: ./assets/cover_how_many_samples_bnn.png
+
+  - title: "Efficient Post-Hoc Uncertainty Calibration via Variance-Based Smoothing"
+    authors: <strong>Fabian Denoodt</strong>, José Oramas
+    conference: arXiv preprint, 2025.
+    pdf: https://arxiv.org/pdf/2503.15583
+    image: ./assets/var-smooth.png
+
   # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
   #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
   #   conference_short: MICCAI
